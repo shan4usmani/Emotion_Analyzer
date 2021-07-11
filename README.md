@@ -16,6 +16,6 @@ How to run:
 
 1)open and run Emotion_analyzer.ipynb. this file will import the datasets. visualize, preprocess the data and extract the features from the data. then it will create a CNN model and train it. finally it will save the model in your local directory. 
 
-2) run the file GUInew.py. this will open up a GUI. the "add model" button will load the model. provide an audio for classification by clicking on "Load Audio" button. then click on classify to display the predicted emotion. 
+2)run the file GUInew.py. this will open up a GUI. the "add model" button will load the model. provide an audio for classification by clicking on "Load Audio" button. then click on classify to display the predicted emotion. 
 
 
